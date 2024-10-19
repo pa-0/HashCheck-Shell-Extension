@@ -6,11 +6,13 @@ _A simple hashcheck shell extension from [code.kliu.org](https://code.kliu.org).
 
 The HashCheck Shell Extension makes it easy for anyone to calculate and verify checksums and [hashes](https://en.wikipedia.org/wiki/Cryptographic_hash_function) from Windows Explorer. In addition to integrating file checksumming functionality into Windows, HashCheck can also create and verify [SFV files](https://en.wikipedia.org/wiki/Simple_file_verification) (and other forms of checksum files, such as .md5 files). It is fast and efficient, with a very light disk and memory footprint, and it is open-source.
 
-Release Information  |
----------------------|------------------------
+Release              |  Info
+---------------------|--------------------------
 **Current version:** | [2.1.11](changelog.html)
 **Released on:**     | [1 Jul 2009](changelog.html)
 **Requirements:**    | Windows XP (or newer)
+
+<br/>
 
 ![hp3-aero](images/HashProp3_Aero.png)
 
@@ -20,15 +22,15 @@ Release Information  |
 
 HashCheck can process and verify the checksums/hashes stored in checksum files—these are files with a .sfv, .md4, .md5, or .sha1 file extension. Just double-click on the checksum file, and HashCheck will check the actual checksums of the listed files against those specified in the checksum file.
 
-[![hv1-classic](images/tn_HashVerify1_Classic.png)](images/HashVerify1_Classic.png)
+![hv1-classic](images/tn_HashVerify1_Classic.png)
 
 ### Shell Integration: Checksums at Your Fingertips
 
 HashCheck will add a "Checksums" tab to the shell's file properties dialog so that you could easily check the hash of a file (or even multiple files and directories) from Windows Explorer. You can also save the results to a checksum file.
 
-[![hp1-classic](images/tn_HashProp1_Classic.png)](images/HashProp1_Classic.png)
+![hp1-classic](images/tn_HashProp1_Classic.png)
 
-[![hp2-aero](images/tn_HashProp2_Aero.png)](images/HashProp2_Aero.png)
+![hp2-aero](images/tn_HashProp2_Aero.png)
 
 ### Create checksum files
 
