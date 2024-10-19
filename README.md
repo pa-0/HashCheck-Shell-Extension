@@ -8,8 +8,8 @@ The HashCheck Shell Extension makes it easy for anyone to calculate and verify c
 
 Release              |  Info
 ---------------------|--------------------------
-**Current version:** | [2.1.11](changelog.html)
-**Released on:**     | [1 Jul 2009](changelog.html)
+**Current version:** | [2.1.11](Changelog.md)
+**Released on:**     | [1 Jul 2009](Changelog.md)
 **Requirements:**    | Windows XP (or newer)
 
 <br/>
@@ -32,13 +32,13 @@ HashCheck will add a "Checksums" tab to the shell's file properties dialog so th
 
 ![hp2-aero](images/HashProp2_Aero.png)
 
-### Create checksum files
+### Create Checksum Files
 
 If you want to create a checksum file but think that opening the file properties dialog, navigating to the "Checksums" tab and then clicking "Save" is too much trouble, HashCheck simplifies the task by adding an optional "Create Checksum File" command to the shell's context menu. Simply select the files and directories that you want to hash and create a checksum file for, right-click on them, and select "Create Checksum File".
 
 ![hs2-aero](images/HashSave2_Aero.png)
 
-### Lean and mean
+### Lean and Mean
 
 The HashCheck Shell Extension has a very small memory and disk footprint (the 32-bit version consumes less than 100 KiB of disk space). It is also very fast and responsive; it can, for example, load and parse a SFV file with a million entries in just a fraction of a second.
 
@@ -81,6 +81,6 @@ Türkçe               | M. Ömer Gölgeli
 
 ### How you can help
 
-If you would like to contribute a translation, please translate and submit [this file](translations.txt). If you would like to suggest a correction to an existing translation, please [file a bug](/tracker/).
+If you would like to contribute a translation, please translate and submit [this file](translations.txt). If you would like to suggest a correction to an existing translation, please [file a bug](https://code.kliu.org/tracker/).
 
 **More info:** [FAQ](faq.md) | [Changelog](changelog.md) | [Screenshots](images/)
