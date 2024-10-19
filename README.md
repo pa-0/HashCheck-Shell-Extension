@@ -44,7 +44,7 @@ The HashCheck Shell Extension has a very small memory and disk footprint (the 32
 
 ### Free and open-source
 
-The HashCheck Shell Extension is open-source, licensed under a [BSD-style license](license.txt), so that anyone with some knowledge of C can easily build their own customized version of this shell extension.
+The HashCheck Shell Extension is open-source, licensed under a [BSD-style license](LICENSE), so that anyone with some knowledge of C can easily build their own customized version of this shell extension.
 
 ### Compatibility: international support and 64-bit-compatible
 
@@ -83,4 +83,4 @@ Türkçe               | M. Ömer Gölgeli
 
 If you would like to contribute a translation, please translate and submit [this file](translations.txt). If you would like to suggest a correction to an existing translation, please [file a bug](/tracker/).
 
-**More info:** [FAQ](faq.html) | [Changelog](changelog.html) | [Screenshots](images/)
+**More info:** [FAQ](faq.md) | [Changelog](changelog.md) | [Screenshots](images/)
