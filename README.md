@@ -1,6 +1,6 @@
 # HashCheck Shell Extension
 
-_A simple hashcheck shell extension from [code.kliu.org](https://code.kliu.org)._
+>_A simple hashcheck shell extension from [code.kliu.org](https://code.kliu.org)._
 
 ## Overview
 
@@ -22,15 +22,15 @@ Release              |  Info
 
 HashCheck can process and verify the checksums/hashes stored in checksum files—these are files with a .sfv, .md4, .md5, or .sha1 file extension. Just double-click on the checksum file, and HashCheck will check the actual checksums of the listed files against those specified in the checksum file.
 
-![hv1-classic](images/tn_HashVerify1_Classic.png)
+![hv1-classic](images/HashVerify1_Classic.png)
 
 ### Shell Integration: Checksums at Your Fingertips
 
 HashCheck will add a "Checksums" tab to the shell's file properties dialog so that you could easily check the hash of a file (or even multiple files and directories) from Windows Explorer. You can also save the results to a checksum file.
 
-![hp1-classic](images/tn_HashProp1_Classic.png)
+![hp1-classic](images/HashProp1_Classic.png)
 
-![hp2-aero](images/tn_HashProp2_Aero.png)
+![hp2-aero](images/HashProp2_Aero.png)
 
 ### Create checksum files
 
